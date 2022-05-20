@@ -9,3 +9,5 @@
     pager = true
 [fetch]
     prune = true
+[core]
+    askpass =
